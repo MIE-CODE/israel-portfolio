@@ -12,7 +12,7 @@ const projects = [
   {
     url: "https://moneybox-swart.vercel.app/",
     img: img6,
-    github: "https://github.com/VictorIdowu/MoneyBox",
+    github: "https://github.com/MIE-CODE",
     name: "MovieBox",
     stack: ["Tailwind", "React"],
     description: "Movie App (Search and Discover)",
@@ -20,16 +20,15 @@ const projects = [
   {
     url: "https://your-gallery.vercel.app/",
     img: img5,
-    github: "https://github.com/VictorIdowu/YourGallery",
+    github: "https://github.com/MIE-CODE",
     name: "Your Gallery App",
     stack: ["Tailwind", "Vite + React"],
     description: "Photo Gallery Web application (Drag and Drop)",
   },
   {
-    url: "https://minimal-living-cost-landing-page.netlify.app/",
+    url: "https://github.com/MIE-CODE",
     img: img1,
-    github:
-      "https://github.com/VictorIdowu/Minimum-Living-Cost-Landing-page.git",
+    github: "https://github.com/MIE-CODE",
     name: "Minimal Living Cost",
     stack: ["CSS", "JS"],
     description: "Real Estate Website",
@@ -37,7 +36,7 @@ const projects = [
   {
     url: "https://teejayapartments.netlify.app/",
     img: img2,
-    github: "https://github.com/VictorIdowu/TeeJay-Apartments.git",
+    github: "https://github.com/MIE-CODE",
     name: "TeeJay-Apartment",
     stack: ["CSS", "JS"],
     description: "Real Estate Website",
@@ -45,7 +44,7 @@ const projects = [
   {
     url: "https://bankist-vic.netlify.app/",
     img: img3,
-    github: "https://github.com/VictorIdowu/Bankist-app.git",
+    github: "https://github.com/MIE-CODE",
     name: "Bankist App",
     stack: ["CSS", "JS"],
     description: "Web Application",
@@ -53,7 +52,7 @@ const projects = [
   {
     url: "https://mapty-app-vic.netlify.app/",
     img: img4,
-    github: "https://github.com/VictorIdowu/Mapty-app.git",
+    github: "https://github.com/MIE-CODE",
     name: "Mapty App",
     stack: ["CSS", "JS"],
     description: "Web Application",

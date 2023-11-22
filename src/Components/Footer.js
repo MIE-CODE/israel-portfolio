@@ -23,7 +23,7 @@ const Footer = (props) => {
         </li>
       </ul>
       <p className="">
-        © <span className="year">{currentYear}</span> VictorIdowu
+        © <span className="year">{currentYear}</span> Menyaga Israel
       </p>
     </footer>
   );
