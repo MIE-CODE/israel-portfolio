@@ -20,7 +20,7 @@ const Socials = ({ display }) => {
       <a
         className="socials"
         rel="noopener noreferrer"
-        href="www.linkedin.com/in/israelmenyaga"
+        href="https://linkedin.com/in/israelmenyaga"
         target="_blank"
       >
         <BiLogoLinkedin />
