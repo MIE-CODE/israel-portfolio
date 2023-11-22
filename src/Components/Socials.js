@@ -12,7 +12,7 @@ const Socials = ({ display }) => {
       <a
         className="socials"
         rel="noopener noreferrer"
-        href="https://github.com/VictorIdowu"
+        href="https://github.com/MIE-CODE"
         target="_blank"
       >
         <AiFillGithub />
@@ -20,7 +20,7 @@ const Socials = ({ display }) => {
       <a
         className="socials"
         rel="noopener noreferrer"
-        href="https://linkedin.com/in/vctoridowu"
+        href="www.linkedin.com/in/israelmenyaga"
         target="_blank"
       >
         <BiLogoLinkedin />
@@ -28,7 +28,7 @@ const Socials = ({ display }) => {
       <a
         className="socials"
         rel="noopener noreferrer"
-        href="https://twitter.com/VictorIdowu_"
+        href="https://x.com/M_I_E_CODE"
         target="_blank"
       >
         {/* <RiTwitterXLine /> */}

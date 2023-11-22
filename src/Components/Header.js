@@ -28,7 +28,7 @@ const Header = (props) => {
       className={`header flex place-content-between ease-in duration-500`}
     >
       <Link to="/" className="md:text-2xl font-medium cursor-pointer hover">
-        Victor Idowu
+        Menyaga Israel
       </Link>
       <p className="text-xs items-center flex gap-2">
         {time}

@@ -22,7 +22,7 @@ const Contact = (props) => {
         className="row-start-2 mt-10 items-center flex gap-3 md:justify-around h-fit"
       >
         <a
-          href="mailto:victoridwu@gmail.com"
+          href="mailto:israelvictor126@gmail.com"
           className="text-sm font-semibold text-secondary-100 transition-all duration-500 border-secondary-100 border-2 p-2 md:p-4 md:text-xl hover:bg-secondary-100 hover:text-primary-200 rounded-lg flex items-center gap-2"
           rel="noopener noreferrer"
           target="_blank"

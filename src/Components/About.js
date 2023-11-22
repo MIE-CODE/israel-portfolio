@@ -14,7 +14,7 @@ const About = () => {
           data-aos="fade-right"
           className={`text pb-1 ease-in duration-500 text-secondary-100 leading-loose`}
         >
-          Hello, my name is Victor, I'm a passionate Front-End Engineer who
+          Hello, my name is Israel, I'm a passionate Front-End Engineer who
           thrives on solving problems and crafting interactive, animated web
           pages to enhance user experiences. My journey is fueled by the
           aspiration to evolve into a proficient Full-stack Developer and
